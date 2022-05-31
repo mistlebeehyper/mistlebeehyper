@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mistlebeehyper
 - 👀 I’m interested in Software, Mobile and web development.
-- 🌱 I’m currently learning React and Node Js
+- 🌱 I’m currently working with React and Node Js
 - 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me soetanbolaji@gmail.com
 
